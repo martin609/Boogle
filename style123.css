@@ -1,0 +1,81 @@
+
+
+.celota {
+    
+    top: 10px;
+    width: 600px;
+    height: 600px;
+
+    
+    
+}
+img {
+margin-left: 330px;
+margin-right: auto;
+width: 540px;
+margin-top:10%;
+    
+    
+    
+}
+#iskalnik {
+    width: 340px;
+    margin: 0 auto;
+    position: relative;
+    margin-top: -80px;
+    margin-right: -180px;
+    
+     }
+
+#gumbi {
+    position: relative;
+    margin: 50px;
+    top: -40px;
+    
+}
+
+
+.zgori {
+    width: 280px;
+    height: 50px;
+    margin-left: auto;
+    font-family: sans-serif;
+   
+    
+}
+    
+    
+    
+.footer {
+    
+    background-color:lightgrey;
+    position: absolute;
+    bottom: 0;
+    left:0;
+    width: 100%;
+    height: 2.5em;
+}
+
+.leva {
+    position: absolute;
+    display: inline-block;
+    left:0;
+    bottom:0;
+    padding-bottom: 0.5em;
+}
+
+.desna {
+     position: absolute;
+    display: inline-block;
+    right: 0;
+    bottom:0;
+    padding-bottom: 0.5em;
+}
+    
+   
+    
+
+    
+    
+    
+    
